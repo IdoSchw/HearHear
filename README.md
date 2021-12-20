@@ -1,1 +1,1 @@
-# HearHear
+# HearHear - an app for the hearing impaired
